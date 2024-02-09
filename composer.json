@@ -13,6 +13,6 @@
             "email": "meubilgisayar@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
